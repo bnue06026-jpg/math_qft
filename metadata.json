@@ -1,0 +1,6 @@
+{
+  "name": "초등 수학 QFT 질문 발전소",
+  "description": "초등학교 4학년 학생들이 수학 수업에서 질문형성기법(QFT)을 쉽고 재미있게 실습하고 AI 피드백을 받을 수 있는 에듀테크 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
