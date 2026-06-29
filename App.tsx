@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { Chapter, QFTStep, QFTWorkbook, Question } from "./types";
-import WelcomeScreen from "./components/WelcomeScreen";
-import QFocusScreen from "./components/QFocusScreen";
-import ProduceQuestionsScreen from "./components/ProduceQuestionsScreen";
-import ImproveQuestionsScreen from "./components/ImproveQuestionsScreen";
-import PrioritizeQuestionsScreen from "./components/PrioritizeQuestionsScreen";
-import NextStepsScreen from "./components/NextStepsScreen";
-import ReflectionScreen from "./components/ReflectionScreen";
+import WelcomeScreen from './WelcomeScreen';
+import QFocusScreen from './QFocusScreen';
+import ProduceQuestionsScreen from './ProduceQuestionsScreen';
+import PrioritizeQuestionsScreen from './PrioritizeQuestionsScreen';
+import ImproveQuestionsScreen from './ImproveQuestionsScreen';
+import NextStepsScreen from './NextStepsScreen';
+import ReflectionScreen from './ReflectionScreen';
 import { Sparkles, Compass, Lightbulb, GraduationCap } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 
